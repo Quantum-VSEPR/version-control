@@ -10,12 +10,16 @@ body {
 }
 
 #logo {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   object-fit: contain;
   margin-top: 2rem;
 }
 
 h1 {
   color: #e8d4b2;
+}
+
+a {
+  color: #fee389;
 }
